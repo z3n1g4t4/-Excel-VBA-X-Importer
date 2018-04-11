@@ -1,0 +1,422 @@
+Samtykke
+15:15:20.9753510
+ID,1
+Baggrund
+15:19:47.1830008
+Køn
+Mand
+Alder: 
+24
+Tager du på nuværende tidspunkt lægeordineret medicin? 
+Nej
+Er du på nuværende tidspunkt i behandling for en eller flere psykiatriske lidelser? 
+Nej
+Har du på nuværende tidspunkt et misbrug af euforiserende stoffer? 
+Nej
+Hvor mange genstande drikker du om ugen? 
+5
+Er du ryger?
+Nej
+Hvor mange timers søvn fik du ca. i nat?
+8
+Hvor mange kopper kaffe drikker du i gennemsnit om ugen? 
+10
+Hvor mange kopper kaffe har du drukket inden du kom her i dag?
+1
+Hvor mange kopper sort the drikker du i gennemsnit om ugen (pickwick/lipton)?
+2
+Hvor mange kopper sort the har du drukket inden du kom her i dag?
+0
+Hvor mange energidrikke drikker du i gennemsnit om ugen?
+0
+Hvor mange energidrikke har du drukket inden du kom her i dag?
+0
+Hvor mange colaer drikker du i gennemsnit om ugen?
+1
+Hvor mange colaer har du drukket inden du kom her i dag?
+0
+STISCA Spørgeskema:
+15:21:40.5185332
+Mit hjerte slår hurtigt
+1
+Mine muskler er anpændte.
+1
+Jeg føler mig svimmel.
+1
+Mine muskler føles svagelige.
+1
+Jeg føler mig rystende og skælvende.
+1
+Jeg forestiller mig, at der vil ske uheldige hændelser i fremtiden.
+1
+Der er nogle tanker jeg ikke kan få ud af hovedet.
+1
+Mit ansigt føles varmt.
+4
+Mine arme og ben føles stive.
+1
+Min hals føles tør.
+1
+Jeg kan ikke koncentrere mig uden, at irrelevante tanker presser sig på.
+1
+Mit åndedræt føles hurtigt og overfladisk.
+1
+Jeg føler ikke, at jeg ikke kan kontrollere mine tanker så godt som jeg ønsker.
+1
+Jeg har sommerfugle i maven.
+1
+Mine håndflader føles fugtige/klamme.
+2
+Jeg føler mig svedig.
+2
+Jeg har kvalme.
+1
+Jeg føler mig virkelighedsfjern.
+1
+Jeg føler snurren i mine hænder, læber eller hud.
+1
+Jeg føler en knugen i maven.
+1
+Jeg føler mig forvirret.
+1
+Mine muskler føles svagelige.
+1
+SRQ Spørgeskema:
+15:23:11.9449479
+Rolig til nervøs
+1
+Frygtløs til frygtsom
+1
+Afslappet til Ængstelig 
+1
+Ubekymret til bekymret
+1
+Komfortabel til anspændt 
+2
+Klikforstart(n-back)
+15:24:00.3481323
+Nback-førstInfo
+15:24:04.1398985
+Nback-AndenInfo
+15:24:25.0416406
+N-Back start
+15:24:50.0736463
+1,n,1.259545,5,1,0,0,0
+1,n,0.9669433,5,2,0,0,0
+1,n,0.8683103,2,3,11,0,0
+1,n,0.6838526,5,4,1,11,0
+1,n,0.8001474,4,5,11,1,11
+1,n,0.6503993,2,6,8,11,1
+2,n,0.8504622,1,7,1,8,11
+1,n,0.7330484,2,8,3,1,8
+2,n,0.8008408,1,9,8,3,1
+1,n,0.8179179,2,10,2,8,3
+1,n,0.7849537,4,11,8,2,8
+1,m,0.6666287,1,12,8,8,2
+1,n,0.8827733,3,13,11,8,8
+2,n,0.9329375,1,14,8,11,8
+1,n,0.7677174,4,15,13,8,11
+1,n,0.683883,5,16,7,13,8
+1,n,0.8491234,4,17,13,7,13
+1,m,0.5169569,1,18,13,13,7
+1,n,0.8846659,2,19,2,13,13
+1,n,0.7665513,2,20,6,2,13
+1,n,0.7987306,3,21,2,6,2
+1,m,0.6342432,3,22,2,2,6
+2,m,1.000359,5,23,2,2,2
+1,n,1.066588,3,24,5,2,2
+1,n,0.7492813,2,25,10,5,2
+1,n,0.5687942,2,26,0,10,5
+1,m,0.7492334,3,27,5,0,10
+1,m,0.8504028,1,28,10,5,0
+1,n,0.6329095,2,29,1,10,5
+1,n,0.8332714,3,30,9,1,10
+2,n,0.9025294,1,31,10,9,1
+2,m,1.051372,2,32,11,10,9
+1,n,0.9172146,5,33,5,11,10
+1,n,0.965236,5,34,7,5,11
+1,n,0.9174385,2,35,14,7,5
+1,m,0.76747,1,36,5,14,7
+2,m,0.9852577,2,37,10,5,14
+2,m,0.9678855,3,38,10,10,5
+2,m,0.984529,3,39,0,10,10
+1,n,0.6328149,3,40,4,0,10
+1,n,0.9993159,5,41,12,4,0
+1,n,0.6659625,3,42,11,12,4
+1,m,0.8346607,1,43,4,11,12
+1,m,1.066787,1,44,12,4,11
+1,n,0.9160267,2,45,2,12,4
+2,n,0.984513,1,46,4,2,12
+1,n,0.7671472,2,47,9,4,2
+2,m,0.8177866,5,48,12,9,4
+1,m,0.8356241,3,49,4,12,9
+1,n,0.517037,5,50,14,4,12
+PSS Spørgeskema: 
+15:26:07.8201886
+1. Hvor ofte inden for den sidste måned er du blevet oprevet over noget, der skete uventet?
+2
+2. Hvor ofte inden for den sidste måned har du følt, at du var ude af stand til at kontrollere de betydningsfulde ting i dit liv?
+3
+3. Hvor ofte inden for den sidste måned har du følt dig nervøs og “stresset”?
+3
+4. Hvor ofte inden for den sidste måned har du følt dig sikker på dine evner til at klare dine personlige problemer?
+4
+5. Hvor ofte inden for den sidste måned har du følt, at tingene gik som du ønskede det?
+4
+6. Hvor ofte inden for den sidste måned har du oplevet, at du ikke kunne overkomme alt det du skulle?
+3
+7. Hvor ofte inden for den sidste måned har du været i stand til at håndtere ting, som irriterer dig?
+4
+8. Hvor ofte inden for den sidste måned har du følt, at du havde styr på tingene?
+4
+9. Hvor ofte inden for den sidste måned er du blevet vred over ting, du ikke havde indflydelse på?
+2
+10. Hvor ofte inden for den sidste måned har du følt, at vanskelighederne hobede sig så meget op, at du ikke kunne klare dem?
+2
+HEXACO Spørgeskema: 
+15:27:55.3366734
+1. Jeg ville kede mig ret meget under et besøg på et kunstmuseum.
+2
+2. Jeg planlægger og organiserer, så jeg ikke behøver at gøre alting i sidste øjeblik.
+4
+3. Jeg bærer sjældent nag, selv ikke imod folk, som har behandlet mig virkelig uretfærdigt.
+5
+5. Jeg ville være bange hvis jeg blev nødt til at rejse i dårligt vejr.
+4
+5. Jeg ville være bange hvis jeg blev nødt til at rejse i dårligt vejr.
+2
+6. Jeg ville ikke benytte mig af smiger for at få en lønforhøjelse eller forfremmelse, selv ikke hvis jeg regnede med at jeg ville have succes med det.
+2
+7. Jeg er interesseret i at lære om andre landes historie og politik.
+4
+8. Jeg presser ofte mig selv meget hårdt, når jeg prøver at nå et mål.
+4
+9. Jeg får af og til at vide, at jeg er for kritisk over for andre.
+2
+10. Jeg udtrykker sjældent min mening til gruppemøder.
+1
+11. Nogle gange kan jeg ikke lade være med at bekymre mig om småting.
+2
+12. Hvis jeg var sikker på, at jeg aldrig ville blive afsløret, ville jeg være villig til at stjæle en million.
+5
+13. Jeg ville nyde at skabe et kunstværk, for eksempel en roman, en sang eller et maleri.
+4
+14. Jeg går ikke så meget op i små detaljer, når jeg arbejder på noget.
+2
+15. Jeg får nogle gange at vide, at jeg er for stædig.
+4
+16. Jeg foretrækker et arbejde, der indebærer aktive, sociale interaktioner, frem for et, hvor jeg skal arbejde alene.
+5
+17. Når jeg lider under en smertefuld oplevelse, har jeg brug for nogen, der trøster mig.
+3
+18. Det er ikke særlig vigtigt for mig at have mange penge.
+2
+19. Jeg synes det er spild af tid at bruge opmærksomhed på radikale ideer.
+2
+20. Jeg træffer beslutninger på baggrund af mine følelser i øjeblikket, snarere end ved at tænke tingene grundigt igennem.
+3
+21. Jeg bliver anset for at have en kort lunte.
+1
+22. Jeg føler mig munter og optimistisk de fleste dage.
+4
+23. Når jeg ser andre græde, får jeg selv lyst til at græde.
+2
+24. Jeg synes jeg er berettiget til mere respekt end en gennemsnitlig person.
+3
+25. Hvis jeg havde muligheden for det, ville jeg gerne gå til en klassisk koncert.
+4
+26. Når jeg arbejder, har jeg nogle gange vanskeligheder, fordi jeg er uorganiseret.
+2
+27. Min indstilling til mennesker, der har behandlet mig dårligt, er at slå en streg over hvad der er sket.
+4
+28. Jeg føler mig som en upopulær person.
+1
+29. Jeg er meget frygtsom, når det kommer til risikoen for fysiske farer.
+2
+30. Hvis jeg vil have noget fra en anden, er jeg villig til at grine af denne persons dårligste vittigheder.
+4
+31. Jeg har aldrig rigtig nydt at bladre igennem et leksikon.
+2
+32. Jeg laver kun lige akkurat den mængde arbejde, der er nødvendig for at klare mig.
+3
+33. Jeg plejer at være mild i min bedømmelse af andre.
+5
+34. I sociale situationer er det typisk mig, der tager det første skridt.
+5
+35. Jeg bekymrer mig meget mindre end de fleste andre.
+5
+36. Jeg ville aldrig tage imod bestikkelse, selv ikke hvis det drejede sig om virkelig mange penge.
+2
+37. Jeg får tit at vide, at jeg har en god fantasi.
+3
+38. Jeg forsøger altid at løse mine opgaver omhyggeligt, selv hvis det tager længere tid.
+4
+39. Mine holdninger er typisk ret fleksible, når andre er uenige med mig.
+2
+40. Når jeg kommer til et nyt sted, er det første jeg gør altid at få nye venner.
+4
+41. Jeg kan håndtere vanskelige situationer, uden at jeg har brug for andres emotionelle støtte.
+4
+42. Jeg ville få stor glæde ud af at eje dyre luksusvarer.
+4
+43. Jeg kan godt lide mennesker med ukonventionelle synspunkter.
+2
+44. Jeg laver en masse fejl, fordi jeg ikke tænker mig om, inden jeg handler.
+1
+45. De fleste andre bliver hurtigere vrede, end jeg gør.
+5
+46. De fleste mennesker er mere energiske og dynamiske, end jeg generelt er.
+2
+47. Jeg bliver meget berørt, når en person, der er tæt på mig, tager afsted i lang tid.
+3
+48. Jeg vil gerne have at andre ved, at jeg er en vigtig person med høj social status.
+3
+49. Jeg ser ikke mig selv som den kunstneriske eller kreative type.
+4
+50. Jeg bliver tit kaldt en perfektionist.
+3
+51. Selv hvis andre laver mange fejl, siger jeg kun sjældent noget negativt.
+4
+52. Nogle gange føler jeg mig værdiløs.
+2
+53. Selv i en nødsituation ville jeg ikke gå i panik.
+5
+54. Jeg ville ikke lade som om jeg kunne lide nogen, bare for at få dem til at gøre mig tjenester.
+2
+55. Jeg synes, det er kedeligt at diskutere filosofi.
+1
+56. Jeg vil hellere gøre det, der falder mig ind, frem for at følge en plan.
+4
+57. Når andre fortæller mig, at jeg tager fejl, er min første reaktion at skændes med dem.
+2
+58. Når jeg er i en gruppe af mennesker, er det tit mig, der taler på vegne af gruppen.
+5
+59. Selv i situationer, hvor de fleste bliver meget sentimentale, forbliver jeg emotionelt upåvirket.
+4
+60. Jeg ville være fristet til at anvende forfalskede penge, hvis jeg har var sikker på at jeg ville slippe afsted med det.
+4
+Adgang til is/hånd
+15:33:28.9499304
+MAST
+15:36:38.8007985
+Antal rigtige: 30
+Antal Forkerte: 5
+Klikforstart(n-back) (2)
+15:46:38.9611312
+Nback info 1 (2)
+15:46:52.3899589
+Nback info 2(2)
+15:47:00.4153851
+N-Back start (2)
+15:47:02.7328703
+1,n,0.9834431,1,1,0,0,0
+1,n,0.8498296,3,2,0,0,0
+1,n,0.8185272,2,3,13,0,0
+1,m,0.5164843,1,4,0,13,0
+1,n,0.5994478,2,5,2,0,13
+1,n,0.650623,5,6,12,2,0
+1,n,0.8498217,2,7,14,12,2
+2,m,0.9321618,5,8,0,14,12
+1,n,0.7655127,4,9,4,0,14
+1,n,0.7509607,5,10,6,4,0
+1,n,0.8510662,5,11,12,6,4
+2,m,0.8827347,3,12,14,12,6
+1,m,0.7675655,2,13,6,14,12
+1,n,0.566962,5,14,7,6,14
+1,n,0.700933,4,15,3,7,6
+1,m,0.8181228,1,16,6,3,7
+1,n,0.8165945,4,17,13,6,3
+1,n,0.7675048,2,18,9,13,6
+1,n,0.8174033,5,19,3,9,13
+1,m,0.7668033,1,20,13,3,9
+1,n,0.8672217,4,21,6,13,3
+1,n,0.8170102,2,22,7,6,13
+1,n,0.7667705,2,23,12,7,6
+1,n,0.7991316,5,24,0,12,7
+2,m,0.7665676,4,25,12,0,12
+1,n,0.9005434,2,26,9,12,0
+2,n,0.8511334,5,27,0,9,12
+1,n,0.6334913,2,28,3,0,9
+1,n,0.8020982,5,29,3,3,0
+1,m,0.7501346,1,30,0,3,3
+1,n,0.8162373,3,31,12,0,3
+1,n,0.650526,5,32,12,12,0
+1,n,0.8170291,3,33,11,12,12
+1,n,0.7834947,3,34,2,11,12
+1,n,0.8157923,3,35,4,2,11
+1,n,0.7834412,3,36,0,4,2
+1,m,0.7514524,1,37,2,0,4
+1,n,0.7828347,2,38,13,2,0
+1,n,0.8337923,5,39,12,13,2
+1,n,1.017885,2,40,13,12,13
+1,n,0.8676584,5,41,14,13,12
+1,n,0.8826911,4,42,4,14,13
+1,n,0.9331156,5,43,0,4,14
+2,n,0.7516208,2,44,14,0,4
+1,n,1.084491,4,45,0,14,0
+2,n,0.7172272,1,46,0,0,14
+1,n,0.8668178,2,47,2,0,0
+1,m,0.6995819,1,48,0,2,0
+1,n,0.6997804,2,49,6,0,2
+1,n,0.7162849,3,50,11,6,0
+STISCA Spørgeskema: (2)
+15:48:18.6925037
+Mit hjerte slår hurtigt
+1
+Mine muskler er anpændte.
+1
+Jeg føler mig svimmel.
+1
+Mine muskler føles svagelige.
+1
+Jeg føler mig rystende og skælvende.
+1
+Jeg forestiller mig, at der vil ske uheldige hændelser i fremtiden.
+1
+Der er nogle tanker jeg ikke kan få ud af hovedet.
+1
+Mit ansigt føles varmt.
+2
+Mine arme og ben føles stive.
+1
+Min hals føles tør.
+1
+Jeg kan ikke koncentrere mig uden, at irrelevante tanker presser sig på.
+1
+Mit åndedræt føles hurtigt og overfladisk.
+1
+Jeg føler ikke, at jeg ikke kan kontrollere mine tanker så godt som jeg ønsker.
+1
+Jeg har sommerfugle i maven.
+1
+Mine håndflader føles fugtige/klamme.
+2
+Jeg føler mig svedig.
+2
+Jeg har kvalme.
+1
+Jeg føler mig virkelighedsfjern.
+1
+Jeg føler snurren i mine hænder, læber eller hud.
+1
+Jeg føler en knugen i maven.
+1
+Jeg føler mig forvirret.
+1
+Mine muskler føles svagelige.
+1
+SRQ Spørgeskema: (2)
+15:49:20.4624590
+Rolig til nervøs
+2
+Frygtløs til frygtsom
+1
+Afslappet til Ængstelig 
+1
+Ubekymret til bekymret
+1
+Komfortabel til anspændt 
+1
+done
+slut
+15:49:37.9891926
